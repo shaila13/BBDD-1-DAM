@@ -1,0 +1,1 @@
+select * from bd02.tutores;

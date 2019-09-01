@@ -1,0 +1,1 @@
+grant update, delete, insert on u3.alumnos to u4;

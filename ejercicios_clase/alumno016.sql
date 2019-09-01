@@ -1,0 +1,1 @@
+select * from u3.alumnos;

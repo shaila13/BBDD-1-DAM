@@ -1,0 +1,1 @@
+select * from EMPLE where SALARIO >1500 order by SALARIO desc;

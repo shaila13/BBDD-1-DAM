@@ -1,0 +1,1 @@
+GRANT ALL ON tutores TO BD02;
